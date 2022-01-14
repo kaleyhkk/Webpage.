@@ -1,58 +1,20 @@
-<html class="client-js" lang="en" dir="ltr"><head>
+<html><head>
 
-
-<meta name="generator" content="MediaWiki 1.35.3">
-<meta property="og:image" content="https://energyeducation.ca/wiki/images/5/52/Littah.jpg">
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Energy Education (en)">
-<link rel="EditURI" type="application/rsd+xml" href="https://energyeducation.ca/wiki/api.php?action=rsd">
-<link rel="alternate" type="application/atom+xml" title="Energy Education Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom">
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pollution rootpage-Pollution skin-energyeducationnew action-view"><div id="MathJax_Message" style="display: none;"></div>
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
 
 <div id="page-filler" class="centred"></div>
 <div id="content-wrapper">
 <div id="page-header" class="no-select">
 	<div id="header-inner" class="centred justified">
-		<a class="footer-link" href="https://energyeducation.ca/encyclopedia/Main_Page">English</a>
-		<a class="header-link" href="https://energyeducation.ca/Encyclopedie_Energie/index.php/Page_Principale">Français</a>
-		<a class="header-link" href="https://energyeducation.ca/Enciclopedia_de_Energia/index.php/P%C3%A1gina_principal">Español</a>
+		
+
 	</div>
-	<span id="site-title"><!--ENERGY EDUCATION -->ENERGY EDUCATION</span>
-	<a id="header-link" href="https://energyeducation.ca/encyclopedia/Main_Page"></a>
-	<a target="_blank" href="https://www.youtube.com/channel/UC4jkPyBaPWE2Mj9xGUKkpdQ"><img src="https://energyeducation.ca/wiki/skins/EnergyEducationNew/images/youtube-logo.png" id="youtube-logo"></a>
-	<a target="_blank" href="https://www.ucalgary.ca/"><img src="https://energyeducation.ca/wiki/skins/EnergyEducationNew/images/uc-logo-white.png" id="uc-logo"></a>
-</div>
-<div id="navigation" class="no-select">
-	<div id="nav-inner" class="centred justified">
-	<div class="dropdown-trigger nav-tab"><span class="block-link">ENERGY SOURCES</span>
-		<div class="dropdown">
-			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Fuel">Fuels</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Fossil_fuel">Fossil Fuels</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Biofuel">Biofuels</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Nuclear_fuel">Nuclear Fuels</a></div>
-			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Flow">Flows</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Hydropower">Hydro</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Solar_power">Solar</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Wind_power">Wind</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Geothermal_energy">Geothermal</a></div>
+
+
 		</div>
 	</div>
-	<div class="dropdown-trigger nav-tab"><span class="block-link">ENERGY USE</span>
-		<div class="dropdown">
-			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Energy_currency">Carriers</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Electricity">Electricity</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Gasoline">Gasoline</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Hydrogen_as_an_energy_currency">Hydrogen</a></div>
-			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Energy_use_by_sector">Sectors</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Transportation_energy_use">Transportation</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Residential_energy_use">Residential</a></div>
-			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Industrial_energy_use">Industrial</a></div>
-		</div>
-	</div>
-	<div class="dropdown-trigger nav-tab"><span class="block-link">ENERGY IMPACTS</span>
+<body>
 		<div class="dropdown">
 			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/High_energy_society">Living standard</a></div>
 			<div class="dropdown-item"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Pollution">Pollution</a></div>
@@ -64,7 +26,7 @@
 			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Ocean_acidification">Ocean Acidification</a></div>
 			<div class="dropdown-item sub-topic"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Rising_sea_level">Rising Sea Level</a></div>
 		</div>
-	</div>
+
 	<div class="nav-button nav-tab"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Navigation:Index">INDEX</a></div>
         <div class="nav-button nav-tab"><a class="block-link" href="https://energyeducation.ca/encyclopedia/Energy_Education:Support_us">SUPPORT US</a></div>
 	<div id="search-tab" class="nav-tab">
@@ -72,8 +34,8 @@
 		<input type="hidden" name="title" value="Special:Search">
 		<input type="search" name="search" placeholder="Search Energy Education" title="Search Energy Education [alt-shift-f]" accesskey="f" id="searchInput">	</form>
 	</div>
-	</div>
-</div>
+	
+
 <div id="text-wrapper" class="centred">
 <h1 id="firstHeading" class="firstHeading">Pollution</h1><br><span id="other-languages">In other languages: <a href="https://energyeducation.ca/Enciclopedia_de_Energia/index.php/Contaminación" title="Contaminación">Español</a> <a href="https://energyeducation.ca/Encyclopedie_Energie/index.php/Pollution" title="Pollution">Français</a></span><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:332px;"><a href="javascript: void(0)" class="image"><img alt="" src="https://energyeducation.ca/wiki/images/thumb/5/52/Littah.jpg/330px-Littah.jpg" decoding="async" width="330" height="221" class="thumbimage" srcset="/wiki/images/thumb/5/52/Littah.jpg/495px-Littah.jpg 1.5x, /wiki/images/5/52/Littah.jpg 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="/encyclopedia/File:Littah.jpg" class="internal" title="Enlarge"></a></div>Figure 1. The improper disposal of waste (litter) is a form of pollution.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></div></div></div>
 <p>Human driven ecological degradation continues to be a major problem around the world. <b>Pollution</b> is the presence of any substance in <a href="/encyclopedia/Air" title="Air">air</a>, <a href="/encyclopedia/Water" title="Water">water</a>, <a href="javascript: void(0)" class="new">soil</a>, or food which threatens the health of human, animal and plant life.<sup id="cite_ref-hackett1_2-0" class="reference"><a href="#cite_note-hackett1-2">[2]</a></sup> Pollution often results from <a href="/encyclopedia/Pollutant" title="Pollutant">pollutants</a> like <a href="/encyclopedia/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, but can also arise from <a href="javascript: void(0)" class="new">street lights</a> or the noise from traffic. Pollution sources are split into&nbsp;: <b>point sources</b> and <b>non-point sources</b>.
@@ -153,8 +115,6 @@
 
 </div>
 </div>
-</div>
-
 </div>
 
 </body></html>
